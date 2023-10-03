@@ -11,3 +11,7 @@
 npm install --save-dev jest
 - criar .gitignore e adicionar pasta node_modules
 - atualizar script de test para jest
+
+- criar crawl.js
+- crar crawl.test.js
+- ciar os testes e o script de normalização da URL
