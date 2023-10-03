@@ -1,0 +1,13 @@
+- criar arquivo .nvmrc e indicar versão do node
+- rodar comando nvm install
+- rodar comando nvm use
+- confirmar a versão do node // node --version
+
+- criar main.js
+- configurar npm // npm init
+- criar script start: node main.js
+
+- instalar jest para TDD
+npm install --save-dev jest
+- criar .gitignore e adicionar pasta node_modules
+- atualizar script de test para jest
