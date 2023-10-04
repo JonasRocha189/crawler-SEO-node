@@ -15,3 +15,5 @@ npm install --save-dev jest
 - criar crawl.js
 - crar crawl.test.js
 - ciar os testes e o script de normalização da URL
+
+- instalar pacote jsdom // npm install jsdom
